@@ -55,7 +55,7 @@ php bin/doctrine orm:schema-tool:create
 
 ### adjál hozzá egy terméket az adatbázishoz
 ```console
-php bin/create_product test3
+php bin/create_product TERMÉKNÉV MENNYISÉG
 ```
 &nbsp;
 &nbsp;
